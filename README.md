@@ -20,5 +20,8 @@ A Python OOP project that manages employees using Object-Oriented Programming co
 ## Technologies
 - Python
 - Object-Oriented Programming
+## output
+   ![Employee management system ouput]
+   (output.png)
 # Author
 - Gayathri
